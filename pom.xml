@@ -29,10 +29,28 @@
       <version>7.10.2</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.testng/reportng -->
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>reportng</artifactId>
+      <version>1.2.2</version>
+    </dependency>
     <dependency>
       <groupId>io.qameta.allure</groupId>
       <artifactId>allure-testng</artifactId>
       <version>2.26.0</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
+    <dependency>
+      <groupId>io.qameta.allure</groupId>
+      <artifactId>allure-testng</artifactId>
+      <version>2.28.0</version>
+    </dependency>
+    <!-- Extent html Reports -->
+    <dependency>
+      <groupId>com.aventstack</groupId>
+      <artifactId>extentreports</artifactId>
+      <version>5.0.9</version> <!-- Check for the latest version -->
     </dependency>
     <dependency>
       <groupId>org.assertj</groupId>
@@ -41,9 +59,6 @@
       <scope>test</scope>
     </dependency>
     <!--    // Apache POI, log4j -->
-
-    <!--    // Apache POI, log4j -->
-
     <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>

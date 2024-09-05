@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.Jenkins;
 
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
