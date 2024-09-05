@@ -1,0 +1,1 @@
+{"uuid":"186febad-7afa-45c5-b61d-5c2942c97b95","name":"JenkinsSeleniumProject3","children":["f53625aa-9e34-4765-bb81-91713cd7dc55"],"befores":[{"name":"openbrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1725523796336,"stop":1725523796343}],"afters":[],"start":1725523796317,"stop":1725523800523}

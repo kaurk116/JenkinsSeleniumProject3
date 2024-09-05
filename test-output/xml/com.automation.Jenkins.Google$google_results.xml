@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="google.java"
+<testsuite name="JenkinsSeleniumProject3"
            tests="1"
            failures="0"
            errors="0"
            skipped="0"
-           time="10.443">
+           time="4.069">
     <properties></properties>
 
 
 
             <testcase
                 name="testsearch"
-                time="10.443"
+                time="4.069"
                 classname="com.automation.Jenkins.Google$google">
             </testcase>
 </testsuite>
